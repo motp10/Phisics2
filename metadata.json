@@ -1,0 +1,6 @@
+{
+  "name": "Моделирование колец Ньютона",
+  "description": "Интерактивная физическая симуляция интерференционных колец Ньютона в монохроматическом и квазимонохроматическом свете с графиком интенсивности.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
