@@ -1429,7 +1429,6 @@ export default function App() {
       {/* Footer */}
       <footer className="border-t border-slate-800 bg-[#0b0e17] py-6 px-4 mt-12 text-center text-xs text-slate-500 font-mono">
         <p>© 2026 Моделирование колец Ньютона • Физический симулятор зазора воздушного клина</p>
-        <p className="mt-1 text-slate-600">Разработано экспертно с точной интеграцией спектрального преломления и интерференции по методу Брутона.</p>
       </footer>
     </div>
   );
